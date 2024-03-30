@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm student of EEE first grade in Selcuk Univercitiy<br>I'm interested code stuffs and more...<br>
+I'm student of EEE first grade in Selcuk University<br>I'm interested codes and beyonds...<br>
 
 
 ## 🌐 Socials:
