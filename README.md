@@ -1,8 +1,19 @@
+## ✨ H O T S P O T S ✨:
+
+<p align = "center">
+
+kategoriler|Repo Linkleri
+--|--
+Görsel Programlama | [Vize Çalışma Reposu](https://github.com/selcukdinc/VizeCalisma)<br>[Dersler](https://github.com/selcukdinc/gorsel-programlama)<br>[Final Çalışma Reposu](https://github.com/selcukdinc/GP_FinalCalisma)
+Oyun(?lar) | [HarfHazinesi](https://github.com/selcukdinc/HarfHazinesiPub)
+</p>
+
+<br><br><br>
 # 💫 About Me:
 I'm student of EEE first grade in Selcuk University<br>I'm interested codes and beyonds...<br>
 
-
 ## 🌐 Socials:
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/selcuk._._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/selcukdinc) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@selcukdinc2508) 
 
 # 💻 Tech Stack:
