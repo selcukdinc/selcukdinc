@@ -4,7 +4,7 @@
 
 kategoriler|Repo Linkleri
 --|--
-Görsel Programlama | [Vize Çalışma Reposu](https://github.com/selcukdinc/VizeCalisma)<br>[Dersler](https://github.com/selcukdinc/gorsel-programlama)<br>[Final Çalışma Reposu](https://github.com/selcukdinc/GP_FinalCalisma)
+Görsel Programlama | [Vize Çalışma Reposu](https://github.com/selcukdinc/VizeCalisma)<br>[Dersler](https://github.com/selcukdinc/gorsel-programlama)<br>[Final Çalışma Reposu](https://github.com/selcukdinc/GP_FinalCalisma)<br> [Final sınavı](https://github.com/selcukdinc/GP_Final)
 Oyun(?lar) | [HarfHazinesi](https://github.com/selcukdinc/HarfHazinesiPub)
 </p>
 
