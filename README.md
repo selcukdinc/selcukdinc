@@ -2,10 +2,9 @@
 
 <p align = "center">
 
-kategoriler|Repo Linkleri
---|--
-Görsel Programlama | [Vize Çalışma Reposu](https://github.com/selcukdinc/VizeCalisma)<br>[Dersler](https://github.com/selcukdinc/gorsel-programlama)<br>[Final Çalışma Reposu](https://github.com/selcukdinc/GP_FinalCalisma)<br> [Final sınavı](https://github.com/selcukdinc/GP_Final)
-Oyunlar | [HarfHazinesi - Wordle (C#)](https://github.com/selcukdinc/HarfHazinesiPub) <br> [Mayın Tarlası (Java)](https://github.com/selcukdinc/JavaMineSweeper)
+kategoriler|Görsel Programlama|Oyunar
+--|--|--
+Repo Linki | [Vize Çalışma Reposu](https://github.com/selcukdinc/VizeCalisma)<br>[Dersler](https://github.com/selcukdinc/gorsel-programlama)<br>[Final Çalışma Reposu](https://github.com/selcukdinc/GP_FinalCalisma)<br> [Final sınavı](https://github.com/selcukdinc/GP_Final) | [HarfHazinesi - Wordle (C#)](https://github.com/selcukdinc/HarfHazinesiPub) <br> [Mayın Tarlası (Java)](https://github.com/selcukdinc/JavaMineSweeper)
 </p>
 
 <br><br><br>
