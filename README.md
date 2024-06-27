@@ -4,7 +4,7 @@
 
 kategoriler|Görsel Programlama|Oyunlar|Uygulamalar
 --|--|--|--
-Repo Linkleri | [Vize Çalışma Reposu](https://github.com/selcukdinc/VizeCalisma)<br>[Dersler](https://github.com/selcukdinc/gorsel-programlama)<br>[Final Çalışma Reposu](https://github.com/selcukdinc/GP_FinalCalisma)<br> [Final sınavı](https://github.com/selcukdinc/GP_Final) | [HarfHazinesi - Wordle (C#)](https://github.com/selcukdinc/HarfHazinesiPub) <br> [Mayın Tarlası (Java)](https://github.com/selcukdinc/JavaMineSweeper)|[Matris Uygulamaları(C# Forms)](https://github.com/selcukdinc/matrisUygulamalariCSharp)
+Repo Linkleri | [Vize Çalışma Reposu](https://github.com/selcukdinc/VizeCalisma)<br>[Dersler](https://github.com/selcukdinc/gorsel-programlama)<br>[Final Çalışma Reposu](https://github.com/selcukdinc/GP_FinalCalisma)<br> [Final sınavı](https://github.com/selcukdinc/GP_Final) | [HarfHazinesi - Wordle (C#)](https://github.com/selcukdinc/HarfHazinesiPub) <br> [Mayın Tarlası (Java)](https://github.com/selcukdinc/JavaMineSweeper)|[Matris Uygulamaları(C# Forms)](https://github.com/selcukdinc/matrisUygulamalariCSharp)<br>[Not Kontrol Sistemi (C# Forms - SQL)](https://github.com/selcukdinc/NKS)
 </p>
 
 <br><br><br>
