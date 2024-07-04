@@ -4,9 +4,9 @@
 
 kategoriler|Görsel Programlama|Oyunlar|Uygulamalar
 --|--|--|--
-Repo Linkleri | [Vize Çalışma Reposu](https://github.com/selcukdinc/VizeCalisma)<br><br>[Dersler](https://github.com/selcukdinc/gorsel-programlama)<br><br>[Final Çalışma Reposu](https://github.com/selcukdinc/GP_FinalCalisma)<br><br>[Final sınavı](https://github.com/selcukdinc/GP_Final) | [HarfHazinesi - Wordle (C#)](https://github.com/selcukdinc/HarfHazinesiPub) <br><br> [Mayın Tarlası (Java)](https://github.com/selcukdinc/JavaMineSweeper)|[Matris Uygulamaları(C# Forms)](https://github.com/selcukdinc/matrisUygulamalariCSharp)<br><br>[Not Kontrol Sistemi (C# Forms - SQL)](https://github.com/selcukdinc/NKS)<br><br>[Seçim Sistemi (C# Forms - SQL)](https://github.com/selcukdinc/secimSistemi)
+Repo Linkleri | <br>[Vize Çalışma Reposu](https://github.com/selcukdinc/VizeCalisma)<br><br>[Dersler](https://github.com/selcukdinc/gorsel-programlama)<br><br>[Final Çalışma Reposu](https://github.com/selcukdinc/GP_FinalCalisma)<br><br>[Final sınavı](https://github.com/selcukdinc/GP_Final)<br><br>| [HarfHazinesi - Wordle (C#)](https://github.com/selcukdinc/HarfHazinesiPub) <br><br> [Mayın Tarlası (Java)](https://github.com/selcukdinc/JavaMineSweeper)|[Matris Uygulamaları(C# Forms)](https://github.com/selcukdinc/matrisUygulamalariCSharp)<br><br>[Not Kontrol Sistemi (C# Forms - SQL)](https://github.com/selcukdinc/NKS)<br><br>[Seçim Sistemi (C# Forms - SQL)](https://github.com/selcukdinc/secimSistemi)
 kategoriler | Projeler | ??? | ??? | ???
-Repo Linkleri | [Fidget Toy With Arduino](https://github.com/selcukdinc/project-Lo-Hi) | ? | ? | ?
+Repo Linkleri |<br>[Fidget Toy With Arduino](https://github.com/selcukdinc/project-Lo-Hi)<br><br>| ? | ? | ?
 
 </p>
 
