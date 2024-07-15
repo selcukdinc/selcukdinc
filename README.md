@@ -6,7 +6,7 @@ kategoriler|Görsel Programlama|Oyunlar|Uygulamalar
 --|--|--|--
 Repo Linkleri | <br>[Vize Çalışma Reposu (C#)](https://github.com/selcukdinc/VizeCalisma)<br><br>[Dersler (C#)](https://github.com/selcukdinc/gorsel-programlama)<br><br>[Final Çalışma Reposu (C#)](https://github.com/selcukdinc/GP_FinalCalisma)<br><br>[Final sınavı (C#)](https://github.com/selcukdinc/GP_Final)<br><br>| [HarfHazinesi - Wordle (C#)](https://github.com/selcukdinc/HarfHazinesiPub) <br><br> [Mayın Tarlası (Java)](https://github.com/selcukdinc/JavaMineSweeper)|[Matris Uygulamaları(C# Forms)](https://github.com/selcukdinc/matrisUygulamalariCSharp)<br><br>[Not Kontrol Sistemi (C# Forms - SQL)](https://github.com/selcukdinc/NKS)<br><br>[Seçim Sistemi (C# Forms - SQL)](https://github.com/selcukdinc/secimSistemi)
 kategoriler | Projeler | Yardımcı Uygulamalar | Eğitimler 
-Repo Linkleri |<br>[Fidget Toy With Arduino (C++)](https://github.com/selcukdinc/project-Lo-Hi) <br><br>| [Araç Kutusu (C#)](https://github.com/selcukdinc/AracKutusu-CSharp) | [C Eğitimi](https://github.com/selcukdinc/HelloC)<br>[Javascript](https://github.com/selcukdinc/javascript)
+Repo Linkleri |<br>[Fidget Toy With Arduino (C++)](https://github.com/selcukdinc/project-Lo-Hi) <br><br>| [Araç Kutusu (C#)](https://github.com/selcukdinc/AracKutusu-CSharp) | [C Eğitimi](https://github.com/selcukdinc/HelloC)<br>[Javascript](https://github.com/selcukdinc/HelloJavascript)
 
 </p>
 
