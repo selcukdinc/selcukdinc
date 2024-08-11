@@ -2,6 +2,8 @@
 
 <p align = "center">
 
+[**Blog Selçuk** , personal blog site](https://selcukdinc.github.io/)
+
 kategoriler|Görsel Programlama|Oyunlar|Uygulamalar
 --|--|--|--
 Repo Linkleri | <br>[Vize Çalışma Reposu (C#)](https://github.com/selcukdinc/VizeCalisma)<br><br>[Dersler (C#)](https://github.com/selcukdinc/gorsel-programlama)<br><br>[Final Çalışma Reposu (C#)](https://github.com/selcukdinc/GP_FinalCalisma)<br><br>[Final sınavı (C#)](https://github.com/selcukdinc/GP_Final)<br><br>| [HarfHazinesi - Wordle (C#)](https://github.com/selcukdinc/HarfHazinesiPub) <br><br> [Mayın Tarlası (Java)](https://github.com/selcukdinc/JavaMineSweeper)|[Matris Uygulamaları(C# Forms)](https://github.com/selcukdinc/matrisUygulamalariCSharp)<br><br>[Not Kontrol Sistemi (C# Forms - SQL)](https://github.com/selcukdinc/NKS)<br><br>[Seçim Sistemi (C# Forms - SQL)](https://github.com/selcukdinc/secimSistemi)<br><br>[Döviz Büro Uygulaması (C# Forms - Access)](https://github.com/selcukdinc/DovizBuro)
