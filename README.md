@@ -1,4 +1,4 @@
-## ✨ H O T S P O T S ✨:
+## ✨ H O T S P O T S ✨
 
 <p align = "center">
 
