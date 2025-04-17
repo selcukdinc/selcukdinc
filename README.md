@@ -1,3 +1,5 @@
+### Büyük güncelleme yakında...
+
 ## ✨ H O T S P O T S ✨
 
 <p align = "center">
