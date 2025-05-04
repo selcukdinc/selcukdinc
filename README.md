@@ -1,4 +1,4 @@
-### Büyük güncelleme 15.05.2025
+### Büyük güncelleme 15.05.2025 ...
 
 ## ✨ H O T S P O T S ✨
 
