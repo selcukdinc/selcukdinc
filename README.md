@@ -1,5 +1,3 @@
-### Büyük güncelleme 15.05.2025 ...
-
 ## ✨ H O T S P O T S ✨
 
 <p align = "center">
@@ -36,5 +34,7 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 <p align="center">
 <img src=https://visitcount.itsvg.in/api?id=selcukdinc&icon=6&color=3)](https://visitcount.itsvg.in> </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
