@@ -35,6 +35,79 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 <img src=https://visitcount.itsvg.in/api?id=selcukdinc&icon=6&color=3)](https://visitcount.itsvg.in> </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-92-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 771.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 543 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 39 Public Repositories 
+ > 
+> 🔑 16 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                519 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+🌆 Daytime                1321 commits        ████████░░░░░░░░░░░░░░░░░   32.85 % 
+🌃 Evening                1691 commits        ███████████░░░░░░░░░░░░░░   42.05 % 
+🌙 Night                  490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   388 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Tuesday                  585 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Wednesday                802 commits         █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Thursday                 686 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Friday                   527 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Saturday                 456 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Sunday                   577 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Istanbul
+
+💬 Programming Languages: 
+Dart                     0 secs              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Android Studio           0 secs              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+proje_toprak             0 secs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  0 secs              █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in C#** 
+
+```text
+C#                       21 repos            █████████████░░░░░░░░░░░░   53.85 % 
+Kotlin                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+C                        3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
+
+
+ Last Updated on 18/05/2025 13:20:31 UTC
 <!--END_SECTION:waka-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
