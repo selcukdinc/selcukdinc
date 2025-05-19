@@ -33,13 +33,13 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-128-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-134-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 771.7 kB Used in GitHub's Storage 
  > 
-> 🏆 543 Contributions in the Year 2025
+> 🏆 544 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,19 +50,19 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                519 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-🌆 Daytime                1322 commits        ████████░░░░░░░░░░░░░░░░░   32.87 % 
-🌃 Evening                1691 commits        ███████████░░░░░░░░░░░░░░   42.04 % 
-🌙 Night                  490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+🌞 Morning                519 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+🌆 Daytime                1322 commits        ████████░░░░░░░░░░░░░░░░░   32.88 % 
+🌃 Evening                1690 commits        ███████████░░░░░░░░░░░░░░   42.03 % 
+🌙 Night                  490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   388 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Tuesday                  585 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Wednesday                802 commits         █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+Tuesday                  584 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Wednesday                802 commits         █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
 Thursday                 686 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Friday                   527 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Friday                   527 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
 Saturday                 456 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
 Sunday                   578 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
 ```
@@ -103,7 +103,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2025 18:51:47 UTC
+ Last Updated on 19/05/2025 18:56:46 UTC
 <!--END_SECTION:waka-->
 
 
