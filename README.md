@@ -33,13 +33,13 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-136-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-139-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 771.7 kB Used in GitHub's Storage 
  > 
-> 🏆 549 Contributions in the Year 2025
+> 🏆 550 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,21 +50,21 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                520 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-🌆 Daytime                1323 commits        ████████░░░░░░░░░░░░░░░░░   32.80 % 
-🌃 Evening                1700 commits        ███████████░░░░░░░░░░░░░░   42.15 % 
-🌙 Night                  490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+🌞 Morning                521 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+🌆 Daytime                1323 commits        ████████░░░░░░░░░░░░░░░░░   32.79 % 
+🌃 Evening                1701 commits        ███████████░░░░░░░░░░░░░░   42.16 % 
+🌙 Night                  490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   389 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Tuesday                  592 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Wednesday                803 commits         █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+Monday                   389 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Tuesday                  593 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Wednesday                803 commits         █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
 Thursday                 687 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
 Friday                   528 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Saturday                 456 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Sunday                   578 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Saturday                 457 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Sunday                   578 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
 ```
 
 
@@ -74,16 +74,16 @@ Sunday                   578 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-Dart                     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-proje_toprak             0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -103,7 +103,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2025 18:55:36 UTC
+ Last Updated on 24/05/2025 18:51:50 UTC
 <!--END_SECTION:waka-->
 
 
