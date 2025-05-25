@@ -39,8 +39,6 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 
 > 📦 771.7 kB Used in GitHub's Storage 
  > 
-> 🏆 550 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 39 Public Repositories 
@@ -59,12 +57,12 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 
 ```text
 Monday                   389 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Tuesday                  593 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Tuesday                  592 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
 Wednesday                803 commits         █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
 Thursday                 687 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
 Friday                   528 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 Saturday                 457 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Sunday                   578 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Sunday                   579 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
 ```
 
 
@@ -103,7 +101,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2025 18:51:50 UTC
+ Last Updated on 25/05/2025 18:52:29 UTC
 <!--END_SECTION:waka-->
 
 
