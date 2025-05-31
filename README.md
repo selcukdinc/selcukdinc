@@ -33,13 +33,11 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-114-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 771.7 kB Used in GitHub's Storage 
- > 
-> 🏆 557 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,8 +49,8 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 
 ```text
 🌞 Morning                521 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-🌆 Daytime                1324 commits        ████████░░░░░░░░░░░░░░░░░   32.76 % 
-🌃 Evening                1707 commits        ███████████░░░░░░░░░░░░░░   42.23 % 
+🌆 Daytime                1324 commits        ████████░░░░░░░░░░░░░░░░░   32.75 % 
+🌃 Evening                1708 commits        ███████████░░░░░░░░░░░░░░   42.25 % 
 🌙 Night                  490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -62,8 +60,8 @@ Monday                   390 commits         ██░░░░░░░░░�
 Tuesday                  595 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
 Wednesday                804 commits         █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
 Thursday                 688 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Friday                   529 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Saturday                 457 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Friday                   529 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Saturday                 458 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
 Sunday                   579 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
 ```
 
@@ -103,7 +101,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2025 18:55:25 UTC
+ Last Updated on 31/05/2025 18:52:46 UTC
 <!--END_SECTION:waka-->
 
 
