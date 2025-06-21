@@ -39,8 +39,6 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 
 > 📦 771.8 kB Used in GitHub's Storage 
  > 
-> 🏆 580 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 39 Public Repositories 
@@ -103,7 +101,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2025 18:56:06 UTC
+ Last Updated on 21/06/2025 18:53:58 UTC
 <!--END_SECTION:waka-->
 
 
