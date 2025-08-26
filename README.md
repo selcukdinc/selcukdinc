@@ -33,13 +33,13 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 993.0 kB Used in GitHub's Storage 
+> 📦 993.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,363 Contributions in the Year 2025
+> 🏆 1,366 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,17 +50,17 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1142 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-🌆 Daytime                4652 commits        ███████████░░░░░░░░░░░░░░   44.08 % 
-🌃 Evening                3958 commits        █████████░░░░░░░░░░░░░░░░   37.51 % 
+🌞 Morning                1144 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+🌆 Daytime                4652 commits        ███████████░░░░░░░░░░░░░░   44.07 % 
+🌃 Evening                3958 commits        █████████░░░░░░░░░░░░░░░░   37.50 % 
 🌙 Night                  801 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2191 commits        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-Tuesday                  2045 commits        █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-Wednesday                1972 commits        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+Monday                   2192 commits        █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+Tuesday                  2046 commits        █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Wednesday                1972 commits        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
 Thursday                 1256 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
 Friday                   1150 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
 Saturday                 955 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
@@ -111,7 +111,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2025 18:54:43 UTC
+ Last Updated on 26/08/2025 18:56:35 UTC
 <!--END_SECTION:waka-->
 
 
