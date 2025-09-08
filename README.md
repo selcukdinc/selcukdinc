@@ -39,8 +39,6 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 
 > 📦 993.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,381 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 39 Public Repositories 
@@ -58,8 +56,8 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2193 commits        █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
-Tuesday                  2061 commits        █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Monday                   2194 commits        █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+Tuesday                  2060 commits        █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
 Wednesday                1974 commits        █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
 Thursday                 1258 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
 Friday                   1155 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
@@ -106,7 +104,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2025 18:52:57 UTC
+ Last Updated on 08/09/2025 18:55:40 UTC
 <!--END_SECTION:waka-->
 
 
