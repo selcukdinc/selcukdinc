@@ -31,6 +31,8 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 # 📊 General Stats:
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%209%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -45,6 +47,45 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
  > 
 > 🔑 26 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1146 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+🌆 Daytime                4653 commits        ███████████░░░░░░░░░░░░░░   43.85 % 
+🌃 Evening                4011 commits        █████████░░░░░░░░░░░░░░░░   37.80 % 
+🌙 Night                  802 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2196 commits        █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Tuesday                  2076 commits        █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+Wednesday                1976 commits        █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+Thursday                 1260 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Friday                   1157 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Saturday                 959 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Sunday                   988 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Istanbul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -62,7 +103,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2025 18:57:08 UTC
+ Last Updated on 24/09/2025 18:55:22 UTC
 <!--END_SECTION:waka-->
 
 
