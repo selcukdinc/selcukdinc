@@ -31,13 +31,15 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 # 📊 General Stats:
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%209%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 993.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,402 Contributions in the Year 2025
+> 🏆 1,406 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,6 +47,45 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
  > 
 > 🔑 26 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1147 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+🌆 Daytime                4658 commits        ███████████░░░░░░░░░░░░░░   43.82 % 
+🌃 Evening                4023 commits        █████████░░░░░░░░░░░░░░░░   37.85 % 
+🌙 Night                  802 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2202 commits        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+Tuesday                  2081 commits        █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+Wednesday                1977 commits        █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Thursday                 1263 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Friday                   1158 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Saturday                 960 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Sunday                   989 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Istanbul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -62,7 +103,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 18:51:33 UTC
+ Last Updated on 29/09/2025 18:57:09 UTC
 <!--END_SECTION:waka-->
 
 
