@@ -31,7 +31,7 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 # 📊 General Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -39,7 +39,7 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 
 > 📦 993.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,407 Contributions in the Year 2025
+> 🏆 1,408 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,19 +51,19 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 
 ```text
 🌞 Morning                1147 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-🌆 Daytime                4658 commits        ███████████░░░░░░░░░░░░░░   43.79 % 
-🌃 Evening                4029 commits        █████████░░░░░░░░░░░░░░░░   37.88 % 
+🌆 Daytime                4658 commits        ███████████░░░░░░░░░░░░░░   43.78 % 
+🌃 Evening                4032 commits        █████████░░░░░░░░░░░░░░░░   37.90 % 
 🌙 Night                  802 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   2202 commits        █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-Tuesday                  2087 commits        █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
-Wednesday                1977 commits        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Tuesday                  2089 commits        █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Wednesday                1978 commits        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
 Thursday                 1263 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Friday                   1158 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Saturday                 960 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Friday                   1158 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Saturday                 960 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
 Sunday                   989 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
 ```
 
@@ -74,16 +74,18 @@ Sunday                   989 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     9 mins              ██████████████████░░░░░░░   70.95 % 
+YAML                     3 mins              ███████░░░░░░░░░░░░░░░░░░   28.96 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Portfolio                13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -103,7 +105,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2025 18:55:19 UTC
+ Last Updated on 01/10/2025 18:58:24 UTC
 <!--END_SECTION:waka-->
 
 
