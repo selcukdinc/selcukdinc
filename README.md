@@ -31,13 +31,15 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 # 📊 General Stats:
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2022%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 993.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,410 Contributions in the Year 2025
+> 🏆 1,411 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,6 +47,47 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
  > 
 > 🔑 26 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1147 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+🌆 Daytime                4658 commits        ███████████░░░░░░░░░░░░░░   43.76 % 
+🌃 Evening                4038 commits        █████████░░░░░░░░░░░░░░░░   37.93 % 
+🌙 Night                  802 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2202 commits        █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Tuesday                  2092 commits        █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+Wednesday                1978 commits        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Thursday                 1264 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Friday                   1159 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Saturday                 961 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Sunday                   989 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Istanbul
+
+💬 Programming Languages: 
+HTML                     9 mins              ██████████████████░░░░░░░   70.95 % 
+YAML                     3 mins              ███████░░░░░░░░░░░░░░░░░░   28.96 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+
+🔥 Editors: 
+VS Code                  13 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Portfolio                13 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      13 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -62,7 +105,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 18:55:40 UTC
+ Last Updated on 04/10/2025 18:52:02 UTC
 <!--END_SECTION:waka-->
 
 
