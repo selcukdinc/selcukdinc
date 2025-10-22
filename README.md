@@ -33,13 +33,13 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 993.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,429 Contributions in the Year 2025
+> 🏆 1,430 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,21 +50,21 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1147 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-🌆 Daytime                4661 commits        ███████████░░░░░░░░░░░░░░   43.68 % 
-🌃 Evening                4061 commits        ██████████░░░░░░░░░░░░░░░   38.06 % 
-🌙 Night                  802 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+🌞 Morning                1147 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+🌆 Daytime                4661 commits        ███████████░░░░░░░░░░░░░░   43.66 % 
+🌃 Evening                4065 commits        ██████████░░░░░░░░░░░░░░░   38.08 % 
+🌙 Night                  802 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   2205 commits        █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-Tuesday                  2103 commits        █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-Wednesday                1980 commits        █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+Tuesday                  2106 commits        █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+Wednesday                1981 commits        █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
 Thursday                 1266 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
 Friday                   1161 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
 Saturday                 963 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-Sunday                   993 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Sunday                   993 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
 ```
 
 
@@ -112,7 +112,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2025 18:59:12 UTC
+ Last Updated on 22/10/2025 19:00:10 UTC
 <!--END_SECTION:waka-->
 
 
