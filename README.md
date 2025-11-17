@@ -31,13 +31,15 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 # 📊 General Stats:
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%2053%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 993.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,455 Contributions in the Year 2025
+> 🏆 1,456 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,15 +51,15 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 
 ```text
 🌞 Morning                1147 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-🌆 Daytime                4661 commits        ███████████░░░░░░░░░░░░░░   43.42 % 
-🌃 Evening                4125 commits        ██████████░░░░░░░░░░░░░░░   38.43 % 
+🌆 Daytime                4661 commits        ███████████░░░░░░░░░░░░░░   43.41 % 
+🌃 Evening                4126 commits        ██████████░░░░░░░░░░░░░░░   38.43 % 
 🌙 Night                  802 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   2208 commits        █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-Tuesday                  2144 commits        █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+Tuesday                  2145 commits        █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
 Wednesday                1984 commits        █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
 Thursday                 1270 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
 Friday                   1165 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
@@ -103,7 +105,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2025 18:55:45 UTC
+ Last Updated on 17/11/2025 18:58:59 UTC
 <!--END_SECTION:waka-->
 
 
