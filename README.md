@@ -39,7 +39,7 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 
 > 📦 993.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,467 Contributions in the Year 2025
+> 🏆 1,469 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,10 +59,10 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 
 ```text
 Monday                   2209 commits        █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-Tuesday                  2154 commits        █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+Tuesday                  2152 commits        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
 Wednesday                1986 commits        █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-Thursday                 1271 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Friday                   1166 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Thursday                 1272 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Friday                   1167 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
 Saturday                 968 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 Sunday                   998 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
 ```
@@ -112,7 +112,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2025 19:00:27 UTC
+ Last Updated on 28/11/2025 18:59:52 UTC
 <!--END_SECTION:waka-->
 
 
