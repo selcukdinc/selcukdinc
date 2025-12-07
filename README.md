@@ -33,13 +33,13 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 993.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,478 Contributions in the Year 2025
+> 🏆 1,479 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,19 +52,19 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 ```text
 🌞 Morning                1148 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
 🌆 Daytime                4662 commits        ███████████░░░░░░░░░░░░░░   44.46 % 
-🌃 Evening                3874 commits        █████████░░░░░░░░░░░░░░░░   36.94 % 
+🌃 Evening                3875 commits        █████████░░░░░░░░░░░░░░░░   36.95 % 
 🌙 Night                  802 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2211 commits        █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Monday                   2211 commits        █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
 Tuesday                  1878 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
 Wednesday                1987 commits        █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
 Thursday                 1273 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
 Friday                   1168 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
 Saturday                 970 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-Sunday                   999 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Sunday                   1000 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
 ```
 
 
@@ -103,7 +103,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 06/12/2025 18:51:10 UTC
+ Last Updated on 07/12/2025 18:51:33 UTC
 <!--END_SECTION:waka-->
 
 
