@@ -39,7 +39,7 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 
 > 📦 993.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,483 Contributions in the Year 2025
+> 🏆 1,484 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,8 +51,8 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 
 ```text
 🌞 Morning                1148 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-🌆 Daytime                4662 commits        ███████████░░░░░░░░░░░░░░   44.44 % 
-🌃 Evening                3879 commits        █████████░░░░░░░░░░░░░░░░   36.97 % 
+🌆 Daytime                4662 commits        ███████████░░░░░░░░░░░░░░   44.43 % 
+🌃 Evening                3880 commits        █████████░░░░░░░░░░░░░░░░   36.98 % 
 🌙 Night                  802 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -61,7 +61,7 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 Monday                   2212 commits        █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
 Tuesday                  1879 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
 Wednesday                1988 commits        █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-Thursday                 1274 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Thursday                 1275 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
 Friday                   1168 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
 Saturday                 970 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
 Sunday                   1000 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
@@ -103,7 +103,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 11/12/2025 18:58:40 UTC
+ Last Updated on 12/12/2025 18:58:20 UTC
 <!--END_SECTION:waka-->
 
 
