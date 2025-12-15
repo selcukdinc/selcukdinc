@@ -39,7 +39,7 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 
 > 📦 993.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,487 Contributions in the Year 2025
+> 🏆 1,488 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,13 +52,13 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 ```text
 🌞 Morning                1148 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
 🌆 Daytime                4662 commits        ███████████░░░░░░░░░░░░░░   44.42 % 
-🌃 Evening                3883 commits        █████████░░░░░░░░░░░░░░░░   37.00 % 
+🌃 Evening                3884 commits        █████████░░░░░░░░░░░░░░░░   37.00 % 
 🌙 Night                  802 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2212 commits        █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Monday                   2213 commits        █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
 Tuesday                  1879 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
 Wednesday                1988 commits        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
 Thursday                 1275 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
@@ -74,16 +74,18 @@ Sunday                   1001 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      9 mins              ████████████████░░░░░░░░░   64.61 % 
+INI                      5 mins              █████████░░░░░░░░░░░░░░░░   35.39 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Hbridge_T1               9 mins              ████████████████░░░░░░░░░   64.90 % 
+YZ_tez                   5 mins              █████████░░░░░░░░░░░░░░░░   35.10 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -103,7 +105,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 14/12/2025 18:53:20 UTC
+ Last Updated on 15/12/2025 18:59:22 UTC
 <!--END_SECTION:waka-->
 
 
