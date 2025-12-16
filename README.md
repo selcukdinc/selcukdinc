@@ -31,7 +31,7 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 # 📊 General Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -39,7 +39,7 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 
 > 📦 993.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,488 Contributions in the Year 2025
+> 🏆 1,489 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,15 +51,15 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 
 ```text
 🌞 Morning                1148 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-🌆 Daytime                4662 commits        ███████████░░░░░░░░░░░░░░   44.42 % 
-🌃 Evening                3884 commits        █████████░░░░░░░░░░░░░░░░   37.00 % 
+🌆 Daytime                4662 commits        ███████████░░░░░░░░░░░░░░   44.41 % 
+🌃 Evening                3885 commits        █████████░░░░░░░░░░░░░░░░   37.01 % 
 🌙 Night                  802 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   2213 commits        █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-Tuesday                  1879 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Tuesday                  1880 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
 Wednesday                1988 commits        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
 Thursday                 1275 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
 Friday                   1169 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
@@ -105,7 +105,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 15/12/2025 18:59:22 UTC
+ Last Updated on 16/12/2025 18:59:28 UTC
 <!--END_SECTION:waka-->
 
 
