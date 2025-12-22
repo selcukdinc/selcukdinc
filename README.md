@@ -31,7 +31,7 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 # 📊 General Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -39,13 +39,13 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 
 > 📦 993.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,494 Contributions in the Year 2025
+> 🏆 1,495 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 40 Public Repositories 
  > 
-> 🔑 27 Private Repositories 
+> 🔑 28 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -74,20 +74,19 @@ Sunday                   1002 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-C++                      16 mins             ████████████████░░░░░░░░░   65.67 % 
-INI                      8 mins              █████████░░░░░░░░░░░░░░░░   34.33 % 
+C++                      6 mins              █████████████████░░░░░░░░   67.24 % 
+INI                      3 mins              ████████░░░░░░░░░░░░░░░░░   32.76 % 
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Hbridge_T1               10 mins             ███████████░░░░░░░░░░░░░░   42.31 % 
-YZ_tez                   5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-Hbridge_T2               4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-Hbridge_T3               4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Hbridge_T2               4 mins              ████████████░░░░░░░░░░░░░   46.33 % 
+Hbridge_T3               4 mins              ███████████░░░░░░░░░░░░░░   44.82 % 
+Hbridge_T1               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
 
 💻 Operating System: 
-Mac                      24 mins             █████████████████████████   100.00 % 
+Mac                      9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -107,7 +106,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 21/12/2025 18:52:40 UTC
+ Last Updated on 22/12/2025 18:56:39 UTC
 <!--END_SECTION:waka-->
 
 
