@@ -74,20 +74,16 @@ Sunday                   1009 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-Dart                     7 mins              █████████████░░░░░░░░░░░░   53.20 % 
-C++                      6 mins              ████████████░░░░░░░░░░░░░   46.31 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           7 mins              █████████████░░░░░░░░░░░░   53.20 % 
-VS Code                  6 mins              ████████████░░░░░░░░░░░░░   46.80 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-project_sm_ws            7 mins              █████████████░░░░░░░░░░░░   53.20 % 
-Hbridge_T8               6 mins              ████████████░░░░░░░░░░░░░   46.80 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -107,7 +103,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 18/01/2026 18:53:26 UTC
+ Last Updated on 19/01/2026 19:00:04 UTC
 <!--END_SECTION:waka-->
 
 
