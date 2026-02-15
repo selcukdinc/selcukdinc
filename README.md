@@ -31,7 +31,7 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 # 📊 General Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -107,7 +107,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 14/02/2026 19:04:43 UTC
+ Last Updated on 15/02/2026 19:05:21 UTC
 <!--END_SECTION:waka-->
 
 
