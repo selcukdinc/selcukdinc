@@ -31,9 +31,9 @@ I'm student of EEE second grade in Selcuk University<br>I'm interested codes and
 # 📊 General Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2016%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -74,16 +74,16 @@ Sunday                   1010 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-Python                   30 mins             █████████████████████████   100.00 % 
+Python                   1 hr 4 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-project_hider_vs         30 mins             █████████████████████████   100.00 % 
+project_hider_vs         1 hr 4 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      30 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -103,7 +103,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 04/03/2026 19:25:08 UTC
+ Last Updated on 05/03/2026 19:47:14 UTC
 <!--END_SECTION:waka-->
 
 
