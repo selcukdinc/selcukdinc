@@ -106,7 +106,7 @@ $ cat selcuk.json
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -149,18 +149,16 @@ Sunday                   1011 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-Python                   11 mins             ███████████████░░░░░░░░░░   61.56 % 
-Markdown                 6 mins              ██████████░░░░░░░░░░░░░░░   38.44 % 
+Python                   11 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+VS Code                  11 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-yesitsme                 11 mins             ███████████████░░░░░░░░░░   61.56 % 
-233302071-SelcukDINC     6 mins              ██████████░░░░░░░░░░░░░░░   38.44 % 
+yesitsme                 11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.00 % 
+Mac                      11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -180,7 +178,7 @@ MATLAB                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 22/03/2026 19:05:44 UTC
+ Last Updated on 23/03/2026 19:32:33 UTC
 <!--END_SECTION:waka-->
 
 ---
