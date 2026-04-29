@@ -114,7 +114,7 @@ $ cat selcuk.json
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,041 Contributions in the Year 2026
+> 🏆 1,042 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -127,14 +127,14 @@ $ cat selcuk.json
 ```text
 🌞 Morning                1740 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
 🌆 Daytime                5637 commits        ██████████░░░░░░░░░░░░░░░   40.46 % 
-🌃 Evening                5011 commits        █████████░░░░░░░░░░░░░░░░   35.97 % 
+🌃 Evening                5012 commits        █████████░░░░░░░░░░░░░░░░   35.97 % 
 🌙 Night                  1544 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   3204 commits        ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
-Tuesday                  2425 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Tuesday                  2426 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
 Wednesday                2219 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
 Thursday                 2130 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
 Friday                   1599 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
@@ -149,23 +149,25 @@ Sunday                   1105 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-Bash                     24 mins             ███████████░░░░░░░░░░░░░░   42.47 % 
-Other                    15 mins             ███████░░░░░░░░░░░░░░░░░░   26.25 % 
-PHP                      14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
-Blade Template           3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Blade Template           2 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   41.53 % 
+Other                    1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+PHP                      38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+XML                      30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 🔥 Editors: 
-VS Code                  58 mins             █████████████████████████   100.00 % 
+VS Code                  5 hrs 38 mins       █████████████████████████   100.00 % 
+Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-project-academic         45 mins             ███████████████████░░░░░░   77.46 % 
-Unknown Project          12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
-agents                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-NSIRD_screencaptureui_fnO0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+project-academic         3 hrs 42 mins       ████████████████░░░░░░░░░   65.85 % 
+DevSecMobile             1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Unknown Project          30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+agents                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+project_hider            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      58 mins             █████████████████████████   100.00 % 
+Mac                      5 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -185,7 +187,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 28/04/2026 20:08:51 UTC
+ Last Updated on 29/04/2026 20:06:00 UTC
 <!--END_SECTION:waka-->
 
 ---
