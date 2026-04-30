@@ -106,7 +106,7 @@ $ cat selcuk.json
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -114,32 +114,32 @@ $ cat selcuk.json
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,042 Contributions in the Year 2026
+> 🏆 1,272 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 43 Public Repositories 
+> 📜 44 Public Repositories 
  > 
 > 🔑 38 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1740 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-🌆 Daytime                5637 commits        ██████████░░░░░░░░░░░░░░░   40.46 % 
-🌃 Evening                5012 commits        █████████░░░░░░░░░░░░░░░░   35.97 % 
-🌙 Night                  1544 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+🌞 Morning                1878 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+🌆 Daytime                5665 commits        ██████████░░░░░░░░░░░░░░░   39.86 % 
+🌃 Evening                5055 commits        █████████░░░░░░░░░░░░░░░░   35.57 % 
+🌙 Night                  1615 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   3204 commits        ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
-Tuesday                  2426 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Wednesday                2219 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Thursday                 2130 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Friday                   1599 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Saturday                 1250 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Sunday                   1105 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Monday                   3266 commits        ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+Tuesday                  2535 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+Wednesday                2242 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Thursday                 2191 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Friday                   1620 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Saturday                 1252 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Sunday                   1107 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
 ```
 
 
@@ -149,35 +149,35 @@ Sunday                   1105 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-Blade Template           2 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   41.53 % 
-Other                    1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-PHP                      38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-XML                      30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Blade Template           2 hrs 20 mins       ███████████░░░░░░░░░░░░░░   42.81 % 
+Other                    1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+PHP                      36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+XML                      30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Java Properties          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 38 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 28 mins       █████████████████████████   100.00 % 
 Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-project-academic         3 hrs 42 mins       ████████████████░░░░░░░░░   65.85 % 
-DevSecMobile             1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-Unknown Project          30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-agents                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-project_hider            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+project-academic         3 hrs 19 mins       ███████████████░░░░░░░░░░   60.84 % 
+DevSecMobile             1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+Unknown Project          30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+agents                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+MirrorTop                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 
 💻 Operating System: 
-Mac                      5 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
 
 ```text
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Blade                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 
 
@@ -187,7 +187,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2026 20:06:00 UTC
+ Last Updated on 30/04/2026 20:04:22 UTC
 <!--END_SECTION:waka-->
 
 ---
