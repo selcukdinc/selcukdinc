@@ -125,21 +125,21 @@ $ cat selcuk.json
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1878 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-🌆 Daytime                5668 commits        ██████████░░░░░░░░░░░░░░░   39.87 % 
-🌃 Evening                5056 commits        █████████░░░░░░░░░░░░░░░░   35.56 % 
-🌙 Night                  1615 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+🌞 Morning                1871 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+🌆 Daytime                5662 commits        ██████████░░░░░░░░░░░░░░░   39.92 % 
+🌃 Evening                5048 commits        █████████░░░░░░░░░░░░░░░░   35.59 % 
+🌙 Night                  1602 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   3266 commits        ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-Tuesday                  2535 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-Wednesday                2242 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Thursday                 2191 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Friday                   1621 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Saturday                 1255 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Sunday                   1107 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Monday                   3259 commits        ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+Tuesday                  2527 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Wednesday                2236 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Thursday                 2186 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Friday                   1617 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Saturday                 1253 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Sunday                   1105 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
 ```
 
 
@@ -149,25 +149,25 @@ Sunday                   1107 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-Other                    3 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   34.29 % 
-Blade Template           2 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-Swift                    1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-PHP                      46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-XML                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Other                    3 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   33.10 % 
+Blade Template           2 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+Swift                    1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+PHP                      46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+XML                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 46 mins      █████████████████████████   100.00 % 
 Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-project-academic         4 hrs 57 mins       ████████████░░░░░░░░░░░░░   47.64 % 
-MirrorTop                2 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-DevSecMobile             1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Unknown Project          42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Desktop                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+project-academic         4 hrs 57 mins       ███████████░░░░░░░░░░░░░░   45.99 % 
+MirrorTop                2 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   26.13 % 
+DevSecMobile             1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Unknown Project          42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Desktop                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 
 💻 Operating System: 
-Mac                      10 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -187,7 +187,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2026 19:39:28 UTC
+ Last Updated on 03/05/2026 19:39:32 UTC
 <!--END_SECTION:waka-->
 
 ---
