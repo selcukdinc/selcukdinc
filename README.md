@@ -106,7 +106,7 @@ $ cat selcuk.json
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -114,20 +114,20 @@ $ cat selcuk.json
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,494 Contributions in the Year 2026
+> 🏆 1,496 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 44 Public Repositories 
  > 
-> 🔑 38 Private Repositories 
+> 🔑 39 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                1896 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
 🌆 Daytime                5672 commits        ██████████░░░░░░░░░░░░░░░   39.27 % 
-🌃 Evening                5182 commits        █████████░░░░░░░░░░░░░░░░   35.88 % 
+🌃 Evening                5183 commits        █████████░░░░░░░░░░░░░░░░   35.88 % 
 🌙 Night                  1694 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -135,10 +135,10 @@ $ cat selcuk.json
 ```text
 Monday                   3276 commits        ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
 Tuesday                  2554 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Wednesday                2358 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Wednesday                2358 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
 Thursday                 2266 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
 Friday                   1627 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Saturday                 1255 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Saturday                 1256 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 Sunday                   1108 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 ```
 
@@ -149,19 +149,19 @@ Sunday                   1108 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-Other                    3 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   26.42 % 
-Markdown                 2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Python                   2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-PHP                      2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Blade Template           1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+Other                    3 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   26.40 % 
+Markdown                 2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Python                   2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+PHP                      2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Blade Template           1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
 
 🔥 Editors: 
 VS Code                  13 hrs 43 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-KernelQuest-Game         7 hrs 20 mins       █████████████░░░░░░░░░░░░   53.45 % 
-project-academic         4 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   32.42 % 
-DevSecMobile             1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+KernelQuest-Game         7 hrs 20 mins       █████████████░░░░░░░░░░░░   53.41 % 
+project-academic         4 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   32.47 % 
+DevSecMobile             1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
 MirrorTop                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 Unknown Project          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
@@ -186,7 +186,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2026 20:01:35 UTC
+ Last Updated on 09/05/2026 19:44:20 UTC
 <!--END_SECTION:waka-->
 
 ---
