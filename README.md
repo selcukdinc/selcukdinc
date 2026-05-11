@@ -114,7 +114,7 @@ $ cat selcuk.json
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,497 Contributions in the Year 2026
+> 🏆 1,513 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -125,21 +125,21 @@ $ cat selcuk.json
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1889 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-🌆 Daytime                5666 commits        ██████████░░░░░░░░░░░░░░░   39.31 % 
-🌃 Evening                5176 commits        █████████░░░░░░░░░░░░░░░░   35.91 % 
-🌙 Night                  1681 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+🌞 Morning                1898 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+🌆 Daytime                5672 commits        ██████████░░░░░░░░░░░░░░░   39.22 % 
+🌃 Evening                5184 commits        █████████░░░░░░░░░░░░░░░░   35.85 % 
+🌙 Night                  1708 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   3269 commits        ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
-Tuesday                  2546 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-Wednesday                2352 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Thursday                 2261 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Friday                   1623 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Saturday                 1254 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Sunday                   1107 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Monday                   3292 commits        ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+Tuesday                  2554 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Wednesday                2358 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Thursday                 2266 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Friday                   1627 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Saturday                 1256 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Sunday                   1109 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 ```
 
 
@@ -149,34 +149,34 @@ Sunday                   1107 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-Other                    3 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   27.14 % 
-Markdown                 2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-Python                   2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-PHP                      2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Blade Template           1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Other                    4 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   28.41 % 
+Markdown                 2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+PHP                      2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Python                   2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Blade Template           1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 21 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 9 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-KernelQuest-Game         7 hrs 20 mins       ██████████████░░░░░░░░░░░   54.91 % 
-project-academic         4 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   33.38 % 
-DevSecMobile             1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Unknown Project          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-agents                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+KernelQuest-Game         7 hrs 20 mins       █████████████░░░░░░░░░░░░   51.81 % 
+project-academic         4 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   31.50 % 
+DevSecMobile             1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Unknown Project          42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+toolu_01UtGjyu7D7qFKPkVBa10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 💻 Operating System: 
-Mac                      13 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
 
 ```text
-Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 
 
@@ -186,7 +186,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 10/05/2026 19:45:53 UTC
+ Last Updated on 11/05/2026 20:22:41 UTC
 <!--END_SECTION:waka-->
 
 ---
