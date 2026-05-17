@@ -106,15 +106,13 @@ $ cat selcuk.json
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-248%20hrs%2047%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,609 Contributions in the Year 2026
+> 🏆 1,610 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -125,21 +123,21 @@ $ cat selcuk.json
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1918 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-🌆 Daytime                5701 commits        ██████████░░░░░░░░░░░░░░░   39.15 % 
-🌃 Evening                5188 commits        █████████░░░░░░░░░░░░░░░░   35.63 % 
-🌙 Night                  1754 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+🌞 Morning                1911 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+🌆 Daytime                5695 commits        ██████████░░░░░░░░░░░░░░░   39.20 % 
+🌃 Evening                5181 commits        █████████░░░░░░░░░░░░░░░░   35.66 % 
+🌙 Night                  1741 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   3292 commits        ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
-Tuesday                  2582 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Wednesday                2405 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Thursday                 2288 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Friday                   1628 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Saturday                 1257 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Sunday                   1109 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Monday                   3285 commits        ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
+Tuesday                  2574 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Wednesday                2399 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Thursday                 2283 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Friday                   1624 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Saturday                 1255 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Sunday                   1108 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 ```
 
 
@@ -186,7 +184,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2026 19:44:17 UTC
+ Last Updated on 17/05/2026 19:49:31 UTC
 <!--END_SECTION:waka-->
 
 ---
