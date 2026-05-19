@@ -114,7 +114,7 @@ $ cat selcuk.json
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,611 Contributions in the Year 2026
+> 🏆 1,612 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -126,15 +126,15 @@ $ cat selcuk.json
 
 ```text
 🌞 Morning                1911 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-🌆 Daytime                5695 commits        ██████████░░░░░░░░░░░░░░░   39.20 % 
-🌃 Evening                5182 commits        █████████░░░░░░░░░░░░░░░░   35.67 % 
+🌆 Daytime                5695 commits        ██████████░░░░░░░░░░░░░░░   39.19 % 
+🌃 Evening                5183 commits        █████████░░░░░░░░░░░░░░░░   35.67 % 
 🌙 Night                  1741 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   3286 commits        ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-Tuesday                  2574 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Tuesday                  2575 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
 Wednesday                2399 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
 Thursday                 2283 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
 Friday                   1624 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
@@ -149,24 +149,24 @@ Sunday                   1108 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-Markdown                 4 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   38.51 % 
-Other                    2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-PHP                      1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Bash                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-INI                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Markdown                 4 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   40.21 % 
+Other                    2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+PHP                      1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Bash                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+INI                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 37 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 49 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-project-secret           6 hrs 34 mins       █████████████░░░░░░░░░░░░   52.07 % 
-project-maker            2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
-project-netlove          1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Unknown Project          1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-project-academic         55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+project-secret           6 hrs 34 mins       ██████████████░░░░░░░░░░░   55.59 % 
+project-maker            2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+project-netlove          1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+project-academic         55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Unknown Project          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 💻 Operating System: 
-Mac                      12 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -186,7 +186,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2026 20:21:50 UTC
+ Last Updated on 19/05/2026 20:23:21 UTC
 <!--END_SECTION:waka-->
 
 ---
