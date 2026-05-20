@@ -106,7 +106,7 @@ $ cat selcuk.json
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-260%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -114,7 +114,7 @@ $ cat selcuk.json
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,612 Contributions in the Year 2026
+> 🏆 1,613 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -122,53 +122,6 @@ $ cat selcuk.json
  > 
 > 🔑 40 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1911 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-🌆 Daytime                5695 commits        ██████████░░░░░░░░░░░░░░░   39.19 % 
-🌃 Evening                5183 commits        █████████░░░░░░░░░░░░░░░░   35.67 % 
-🌙 Night                  1741 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   3286 commits        ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-Tuesday                  2575 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Wednesday                2399 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Thursday                 2283 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Friday                   1624 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Saturday                 1255 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Sunday                   1108 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Istanbul
-
-💬 Programming Languages: 
-Markdown                 4 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   40.21 % 
-Other                    2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-PHP                      1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Bash                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-INI                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-
-🔥 Editors: 
-VS Code                  11 hrs 49 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-project-secret           6 hrs 34 mins       ██████████████░░░░░░░░░░░   55.59 % 
-project-maker            2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-project-netlove          1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-project-academic         55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-Unknown Project          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-
-💻 Operating System: 
-Mac                      11 hrs 49 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C#** 
 
 ```text
@@ -186,7 +139,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2026 20:23:21 UTC
+ Last Updated on 20/05/2026 20:39:43 UTC
 <!--END_SECTION:waka-->
 
 ---
