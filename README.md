@@ -123,21 +123,21 @@ $ cat selcuk.json
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1911 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-🌆 Daytime                5697 commits        ██████████░░░░░░░░░░░░░░░   39.19 % 
-🌃 Evening                5188 commits        █████████░░░░░░░░░░░░░░░░   35.69 % 
-🌙 Night                  1741 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+🌞 Morning                1918 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+🌆 Daytime                5703 commits        ██████████░░░░░░░░░░░░░░░   39.14 % 
+🌃 Evening                5196 commits        █████████░░░░░░░░░░░░░░░░   35.66 % 
+🌙 Night                  1754 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   3286 commits        ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
-Tuesday                  2576 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Wednesday                2400 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Thursday                 2284 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Friday                   1628 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Saturday                 1255 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Sunday                   1108 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Monday                   3293 commits        ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+Tuesday                  2584 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Wednesday                2406 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Thursday                 2289 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Friday                   1632 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Saturday                 1257 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Sunday                   1110 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 ```
 
 
@@ -147,16 +147,22 @@ Sunday                   1108 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-Python                   1 hr 8 mins         █████████████████████████   100.00 % 
+Python                   1 hr 29 mins        ████████████████████░░░░░   78.83 % 
+JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Blade Template           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 53 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-YazılımMuh               1 hr 8 mins         █████████████████████████   100.00 % 
+YazılımMuh               1 hr 8 mins         ███████████████░░░░░░░░░░   59.81 % 
+project-video-censor     33 mins             ███████░░░░░░░░░░░░░░░░░░   29.12 % 
+project-secret           12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
 
 💻 Operating System: 
-Mac                      1 hr 8 mins         █████████████████████████   100.00 % 
+Mac                      1 hr 53 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -176,7 +182,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2026 20:26:42 UTC
+ Last Updated on 23/05/2026 19:49:48 UTC
 <!--END_SECTION:waka-->
 
 ---
