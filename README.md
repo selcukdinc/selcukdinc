@@ -120,51 +120,6 @@ $ cat selcuk.json
  > 
 > 🔑 40 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1918 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-🌆 Daytime                5703 commits        ██████████░░░░░░░░░░░░░░░   39.13 % 
-🌃 Evening                5199 commits        █████████░░░░░░░░░░░░░░░░   35.67 % 
-🌙 Night                  1754 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   3294 commits        ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
-Tuesday                  2584 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Wednesday                2406 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Thursday                 2289 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Friday                   1632 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Saturday                 1258 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Sunday                   1111 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Istanbul
-
-💬 Programming Languages: 
-Python                   1 hr 29 mins        ████████████████████░░░░░   78.83 % 
-JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Blade Template           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-
-🔥 Editors: 
-VS Code                  1 hr 53 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-YazılımMuh               1 hr 8 mins         ███████████████░░░░░░░░░░   59.81 % 
-project-video-censor     33 mins             ███████░░░░░░░░░░░░░░░░░░   29.12 % 
-project-secret           12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-
-💻 Operating System: 
-Mac                      1 hr 53 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C#** 
 
 ```text
@@ -182,7 +137,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2026 20:38:51 UTC
+ Last Updated on 28/05/2026 21:03:17 UTC
 <!--END_SECTION:waka-->
 
 ---
