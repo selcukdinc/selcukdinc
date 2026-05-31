@@ -106,7 +106,7 @@ $ cat selcuk.json
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -125,21 +125,21 @@ $ cat selcuk.json
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2161 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-🌆 Daytime                5966 commits        ██████████░░░░░░░░░░░░░░░   38.02 % 
-🌃 Evening                5546 commits        █████████░░░░░░░░░░░░░░░░   35.34 % 
-🌙 Night                  2019 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+🌞 Morning                2168 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+🌆 Daytime                5972 commits        █████████░░░░░░░░░░░░░░░░   37.98 % 
+🌃 Evening                5554 commits        █████████░░░░░░░░░░░░░░░░   35.32 % 
+🌙 Night                  2032 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   3610 commits        ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-Tuesday                  2791 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-Wednesday                2551 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Thursday                 2565 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Friday                   1756 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Saturday                 1301 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Sunday                   1118 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Monday                   3617 commits        ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+Tuesday                  2799 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+Wednesday                2557 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Thursday                 2570 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Friday                   1760 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Saturday                 1303 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Sunday                   1120 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
 ```
 
 
@@ -149,21 +149,18 @@ Sunday                   1118 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-Python                   21 mins             ████████████░░░░░░░░░░░░░   47.33 % 
-JSON                     11 mins             ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
-Blade Template           6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Markdown                 5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Blade Template           15 mins             ██████████████░░░░░░░░░░░   54.76 % 
+Python                   12 mins             ███████████░░░░░░░░░░░░░░   45.24 % 
+PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  45 mins             █████████████████████████   100.00 % 
+VS Code                  27 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-project-video-censor     33 mins             ██████████████████░░░░░░░   72.45 % 
-project-secret           12 mins             ███████░░░░░░░░░░░░░░░░░░   27.55 % 
+project-academic         27 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      45 mins             █████████████████████████   100.00 % 
+Mac                      27 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -183,7 +180,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2026 19:55:39 UTC
+ Last Updated on 31/05/2026 19:53:35 UTC
 <!--END_SECTION:waka-->
 
 ---
