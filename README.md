@@ -106,7 +106,7 @@ $ cat selcuk.json
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-265%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -149,18 +149,24 @@ Sunday                   1120 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-Blade Template           15 mins             ██████████████░░░░░░░░░░░   54.76 % 
-Python                   12 mins             ███████████░░░░░░░░░░░░░░   45.24 % 
-PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Python                   1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+Image (png)              44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Git Config               30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Dart                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.00 % 
+VS Code                  4 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-project-academic         27 mins             █████████████████████████   100.00 % 
+project-video-censor     2 hrs 56 mins       ██████████████████░░░░░░░   73.09 % 
+Mühendislik Tasarımı    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+project-academic         27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Desktop                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-Mac                      27 mins             █████████████████████████   100.00 % 
+Mac                      4 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -180,7 +186,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2026 20:31:52 UTC
+ Last Updated on 06/06/2026 19:58:22 UTC
 <!--END_SECTION:waka-->
 
 ---
