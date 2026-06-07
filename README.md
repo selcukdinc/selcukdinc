@@ -106,15 +106,13 @@ $ cat selcuk.json
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-265%20hrs%2012%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,635 Contributions in the Year 2026
+> 🏆 1,636 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -125,8 +123,8 @@ $ cat selcuk.json
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2171 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-🌆 Daytime                5980 commits        ██████████░░░░░░░░░░░░░░░   38.00 % 
+🌞 Morning                2171 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+🌆 Daytime                5981 commits        ██████████░░░░░░░░░░░░░░░   38.00 % 
 🌃 Evening                5554 commits        █████████░░░░░░░░░░░░░░░░   35.29 % 
 🌙 Night                  2032 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
 ```
@@ -134,12 +132,12 @@ $ cat selcuk.json
 
 ```text
 Monday                   3617 commits        ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-Tuesday                  2799 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Tuesday                  2799 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
 Wednesday                2557 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
 Thursday                 2581 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
 Friday                   1760 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
 Saturday                 1303 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-Sunday                   1120 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Sunday                   1121 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
 ```
 
 
@@ -149,24 +147,24 @@ Sunday                   1120 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-Python                   1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   29.20 % 
-Image (png)              44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Git Config               30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Dart                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Python                   57 mins             ███████░░░░░░░░░░░░░░░░░░   26.68 % 
+Image (png)              44 mins             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Git Config               30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Dart                     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Markdown                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 
 🔥 Editors: 
-VS Code                  4 hrs               █████████████████████████   100.00 % 
+VS Code                  3 hrs 36 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-project-video-censor     2 hrs 56 mins       ██████████████████░░░░░░░   73.09 % 
-Mühendislik Tasarımı    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-project-academic         27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Desktop                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+project-video-censor     2 hrs 56 mins       ████████████████████░░░░░   81.37 % 
+Mühendislik Tasarımı    31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Desktop                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+NSIRD_screencaptureui_ew40 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs               █████████████████████████   100.00 % 
+Mac                      3 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -186,7 +184,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2026 19:58:22 UTC
+ Last Updated on 07/06/2026 19:59:30 UTC
 <!--END_SECTION:waka-->
 
 ---
