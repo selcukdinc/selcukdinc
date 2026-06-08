@@ -106,6 +106,8 @@ $ cat selcuk.json
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-265%20hrs%2016%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -147,24 +149,24 @@ Sunday                   1121 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-Python                   57 mins             ███████░░░░░░░░░░░░░░░░░░   26.68 % 
-Image (png)              44 mins             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-Git Config               30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Dart                     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Markdown                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Python                   57 mins             ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+Image (png)              44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Git Config               30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Dart                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 36 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 3 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-project-video-censor     2 hrs 56 mins       ████████████████████░░░░░   81.37 % 
-Mühendislik Tasarımı    31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Desktop                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-NSIRD_screencaptureui_ew40 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+project-video-censor     2 hrs 56 mins       ██████████████████░░░░░░░   72.35 % 
+Mühendislik Tasarımı    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+project-secret           26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Desktop                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 💻 Operating System: 
-Mac                      3 hrs 36 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -184,7 +186,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2026 19:59:30 UTC
+ Last Updated on 08/06/2026 20:44:42 UTC
 <!--END_SECTION:waka-->
 
 ---
