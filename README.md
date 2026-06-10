@@ -106,7 +106,7 @@ $ cat selcuk.json
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-265%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -149,24 +149,24 @@ Sunday                   1121 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-Python                   1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-Markdown                 51 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Image (png)              44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Git Config               30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Dart                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Python                   1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+Markdown                 51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Image (png)              44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+PHP                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Git Config               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  6 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-project-video-censor     2 hrs 56 mins       ██████████████░░░░░░░░░░░   57.23 % 
-Mühendislik Tasarımı    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-prompts                  29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-project-secret           26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-0-Cozum                  26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+project-video-censor     2 hrs 56 mins       ████████████░░░░░░░░░░░░░   47.18 % 
+project-secret           1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+Mühendislik Tasarımı    31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+prompts                  29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+0-Cozum                  26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
 
 💻 Operating System: 
-Mac                      5 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      6 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -186,7 +186,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
 
 
- Last Updated on 09/06/2026 20:34:18 UTC
+ Last Updated on 10/06/2026 21:12:44 UTC
 <!--END_SECTION:waka-->
 
 ---
