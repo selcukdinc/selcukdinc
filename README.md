@@ -3,17 +3,22 @@
 ```
 ███████╗███████╗██╗      ██████╗ ██╗   ██╗██╗  ██╗
 ██╔════╝██╔════╝██║     ██╔════╝ ██║   ██║██║ ██╔╝
-███████╗█████╗  ██║     ██║      ██║   ██║█████╔╝ 
-╚════██║██╔══╝  ██║     ██║      ██║   ██║██╔═██╗ 
+███████╗█████╗  ██║     ██║      ██║   ██║█████╔╝
+╚════██║██╔══╝  ██║     ██║      ██║   ██║██╔═██╗
 ███████║███████╗███████╗╚██████╗ ╚██████╔╝██║  ██╗
 ╚══════╝╚══════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
 ```
 
-### `dinc.selcuk` · EEE Student @ Selçuk University
+### SELÇUK DİNÇ
+
+**4th Year · EEE Student @ Selçuk University**
+
 *building things that work, sometimes things that don't — learning either way*
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/selcuk._._)
+[![Portfolio](https://img.shields.io/badge/Portfolio-selcukdinc.dev-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://selcukdinc.dev)
+[![FPGA Project](https://img.shields.io/badge/FPGA-fpga.selcukdinc.dev-FF6F00?style=flat-square&logo=googlechrome&logoColor=white)](https://fpga.selcukdinc.dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/selcukdinc)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/selcuk._._)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@selcukdinc2508)
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=ghost&logoColor=white)](https://selcukdinc.github.io/)
 
@@ -29,10 +34,10 @@ $ cat selcuk.json
 
 ```json
 {
-  "name": "Selçuk Dinç",
-  "role": "EEE Student · 3th Year",
+  "name": "SELÇUK DİNÇ",
+  "role": "EEE Student · 4th Year",
   "university": "Selçuk University",
-  "focus": ["Embedded Systems", "Software Dev", "Android"],
+  "focus": ["FPGA", "Embedded Systems", "Software Dev", "Android"],
   "currently_learning": ["Python", "Flutter", "AI/ML basics"],
   "open_to_hire": false,
   "timezone": "Europe/Istanbul"
@@ -41,37 +46,21 @@ $ cat selcuk.json
 
 ---
 
-## 🗂️ Projects
+## 🧠 Active Projects
 
-### 🎮 Games
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [HarfHazinesi](https://github.com/selcukdinc/HarfHazinesiPub) | `C#` | Turkish Wordle clone — HarfHazinesi |
-| [Mayın Tarlası](https://github.com/selcukdinc/JavaMineSweeper) | `Java` | Classic minesweeper implementation |
+Websites I actively maintain and continue to develop.
 
-### 📱 Applications
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [Android Wish App](https://github.com/selcukdinc/androidWishApp) | `Kotlin` | Android app w/ DayOfWord branch |
-| [Not Kontrol Sistemi](https://github.com/selcukdinc/NKS) | `C# · SQL` | Grade tracking system |
-| [Seçim Sistemi](https://github.com/selcukdinc/secimSistemi) | `C# · SQL` | Election system simulation |
-| [Döviz Büro](https://github.com/selcukdinc/DovizBuro) | `C# · Access` | Currency exchange office app |
-| [Matris Uygulamaları](https://github.com/selcukdinc/matrisUygulamalariCSharp) | `C# Forms` | Matrix operations toolkit |
-| [Hesap Makinesi](https://github.com/selcukdinc/BasitHesapMakinesiCSharp) | `C# Forms` | Simple calculator |
+### [fpga.selcukdinc.dev](https://fpga.selcukdinc.dev)
 
-### 🛠️ Tools & Learning
-| Project | Stack |
-|---------|-------|
-| [Araç Kutusu](https://github.com/selcukdinc/AracKutusu-CSharp) | `C#` |
-| [Hello C](https://github.com/selcukdinc/HelloC) | `C` |
-| [Hello Javascript](https://github.com/selcukdinc/HelloJavascript) | `JS` |
-| [Hello Python](https://github.com/selcukdinc/HelloPython) | `Python` |
-| [Python Scrapy](https://github.com/selcukdinc/Python_HelloScrapy) | `Python` |
-| [Python AI](https://github.com/selcukdinc/Python_AI) | `Python` |
+An open-source FPGA project for anyone who wants to start from scratch and progress in this field.
+
+### [selcukdinc.dev](https://selcukdinc.dev)
+
+My current portfolio, where I share my work, projects, and contact information.
 
 ---
 
-## 🧰 Tech Stack
+## 🔎 Tech Stack
 
 **Primary**
 
@@ -89,7 +78,7 @@ $ cat selcuk.json
 
 ---
 
-## 📊 Stats
+## 🔋 GitHub Stats
 
 <div align="center">
 
@@ -97,106 +86,12 @@ $ cat selcuk.json
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=selcukdinc&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=selcukdinc&theme=tokyonight&hide_border=true&layout=compact)
-
 </div>
-
----
-
-## ⏱️ Coding Activity
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2047%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 1.0 MB Used in GitHub's Storage 
- > 
-> 🏆 1,636 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 44 Public Repositories 
- > 
-> 🔑 40 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2171 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-🌆 Daytime                5981 commits        ██████████░░░░░░░░░░░░░░░   38.00 % 
-🌃 Evening                5554 commits        █████████░░░░░░░░░░░░░░░░   35.29 % 
-🌙 Night                  2032 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   3617 commits        ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-Tuesday                  2799 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Wednesday                2557 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Thursday                 2581 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Friday                   1760 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Saturday                 1303 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-Sunday                   1121 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Istanbul
-
-💬 Programming Languages: 
-Python                   1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-Markdown                 51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Image (png)              44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-PHP                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Git Config               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 13 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-project-video-censor     2 hrs 56 mins       ████████████░░░░░░░░░░░░░   47.18 % 
-project-secret           1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
-Mühendislik Tasarımı    31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-prompts                  29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-0-Cozum                  26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-
-💻 Operating System: 
-Mac                      6 hrs 13 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in C#** 
-
-```text
-Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Rich Text Format         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/selcukdinc/selcukdinc/main/assets/bar_graph.png)
-
-
- Last Updated on 10/06/2026 21:12:44 UTC
-<!--END_SECTION:waka-->
 
 ---
 
 <div align="center">
 
 *"code is the closest thing we have to a superpower"*
-
-![Code Time](https://img.shields.io/badge/Total%20Code%20Time-192%20hrs-blue?style=flat-square)
-![Repos](https://img.shields.io/badge/Public%20Repos-42-green?style=flat-square)
-![Contributions](https://img.shields.io/badge/2026%20Contributions-45-orange?style=flat-square)
 
 </div>
