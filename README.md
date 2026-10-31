@@ -55,6 +55,10 @@ Websites I actively maintain and continue to develop.
 
 An open-source FPGA project for anyone who wants to start from scratch and progress in this field.
 
+### [dsp.selcukdinc.dev](https://dsp.selcukdinc.dev)
+
+An open-source DSP project for anyone who wants to start from scratch and progress in this field.
+
 ### [selcukdinc.dev](https://selcukdinc.dev)
 
 My current portfolio, where I share my work, projects, and contact information.
