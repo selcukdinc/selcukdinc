@@ -49,19 +49,15 @@ $ cat selcuk.json
 
 ## 🧠 Active Projects
 
-Websites I actively maintain and continue to develop.
-
-### [fpga.selcukdinc.dev](https://fpga.selcukdinc.dev)
-
-An open-source FPGA project for anyone who wants to start from scratch and progress in this field.
-
-### [dsp.selcukdinc.dev](https://dsp.selcukdinc.dev)
-
-An open-source DSP project for anyone who wants to start from scratch and progress in this field.
-
-### [selcukdinc.dev](https://selcukdinc.dev)
-
-My current portfolio, where I share my work, projects, and contact information.
+| Platform | Domain | Description | Category |
+| :--- | :--- | :--- | :--- |
+| **Portfolio** | [selcukdinc.dev](https://selcukdinc.dev) | Personal portfolio showcasing engineering projects, software solutions, and technical blog posts. | Personal |
+| **FPGA Studio** | [fpga.selcukdinc.dev](https://fpga.selcukdinc.dev) | Browser-based FPGA learning platform featuring Vivado-style digital logic simulations and lecture notes. | Digital Logic / FPGA |
+| **MatStudio (DSP)** | [dsp.selcukdinc.dev](https://dsp.selcukdinc.dev) | A lightweight, open-source, web-based MATLAB alternative tailored for Digital Signal Processing. | Signal Processing |
+| **Entrepreneurship Hub** | [girisimcilik.selcukdinc.dev](https://girisimcilik.selcukdinc.dev) | Interactive practice and review portal designed for the 4th-year EEE Entrepreneurship course. | Academic (4th Year) |
+| **Discrete Systems** | [ayrik.selcukdinc.dev](https://ayrik.selcukdinc.dev) | Interactive learning and problem-solving platform for 4th-year EEE Discrete Systems / Math. | Academic (4th Year) |
+| **Physics Lab** | [fizik.selcukdinc.dev](https://fizik.selcukdinc.dev) | Interactive study and simulation portal for 1st-year EEE General Physics coursework. | Academic (1st Year) |
+| **Chemistry Lab** | [kimya.selcukdinc.dev](https://kimya.selcukdinc.dev) | Web-based study companion and practice tool for 1st-year EEE General Chemistry. | Academic (1st Year) |
 
 ---
 
